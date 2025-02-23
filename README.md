@@ -28,8 +28,7 @@ Here are a few of the projects I've worked on:
 
 ## 📫 Get in Touch
 - **Email**: [karamma3rouf@gmail.com](mailto:karamma3rouf@gmail.com)
-- **Portfolio**: [https://karam-ahmad.my.canva.site/.com]((https://karam-ahmad.my.canva.site/))
-
+- **Portfolio**: [karam-ahmad-my.canva.site](https://karam-ahmad.my.canva.site/)
 Feel free to reach out if you'd like to collaborate or discuss development practices!
 
 ---
